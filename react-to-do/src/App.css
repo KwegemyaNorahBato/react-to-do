@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  background: darkcyan;
+  height: 100vh;
+  padding: 70px;
+}
+
+.todo-list {
+  background: darksalmon;
+  border-radius: 4px;
+  max-width: 400px;
+  padding: 5px;
+  position: absolute;
+  top: 20%;
+  left: 30%;
+  width: 300px;
+  
+}
+.todo {
+  align-items: center;
+  background: #fff;
+  border-radius: 3px;
+  box-shadow: 1px 1px 1px;
+  display: flex;
+  font-size: 12px;
+  justify-content: space-between;
+  margin-bottom: 6px;
+  padding: 5px 10px;
+  
+}
